@@ -47,3 +47,7 @@ The simplest form of document retrieval is for a computer to do this sort of lin
 
 + Indexer (incidence matrix).
 
+![one](Screenshot%20(93).png)
+![two](Screenshot%20(94).png)
+![three](Screenshot%20(95).png)
+![four](Screenshot%20(96).png)
