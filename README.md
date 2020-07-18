@@ -7,6 +7,8 @@ from within large collections (usually stored on computers).
 + Collection: Fixed set of documents
 + Goal: Retrieve documents with information that's relevant to the user's information need and helps the user to complete a task
 
+## Details 
+This project has been developed on windows 10 pro, visual studio 2019
 ## Description
 ### Boolean Retrieval Model
 
@@ -55,3 +57,6 @@ The simplest form of document retrieval is for a computer to do this sort of lin
 ## Download
 
 You can find source code [here](https://drive.google.com/file/d/1GDb-x0nX9jQRsju4kgIuM3NQSSz0BP_1/view), download and run on visual studio's default dlls 
+<center><h2>License</h2></center>
+
+[MIT License](https://github.com/Abdulrahmannaser/IR/blob/master/LICENSE)
