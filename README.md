@@ -8,7 +8,7 @@ from within large collections (usually stored on computers).
 + Goal: Retrieve documents with information that's relevant to the user's information need and helps the user to complete a task
 
 ## Details 
-This project has been developed on windows 10 pro, visual studio 2019
+This project has been developed on windows 10 pro, visual studio 2019 and C#
 ## Description
 ### Boolean Retrieval Model
 
